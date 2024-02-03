@@ -126,7 +126,7 @@
                       Soy un programador apasionado que se dedica con entusiasmo al mundo del desarrollo web desde hace más de 5 años. Tengo una sólida experiencia en tecnologías como Vue.js, Feathers y Node.js, así como un profundo conocimiento en JavaScript y otras tecnologías centrales. A lo largo de los años, he tenido el privilegio de colaborar con amigos y socios, ofreciendo mi apoyo y experiencia para la realización de diversos proyectos. Esta experiencia me permitió profundizar mis habilidades y aprender continuamente, enfrentando desafíos estimulantes y desarrollando soluciones innovadoras. Mi pasión por la programación me empuja constantemente a crecer y mejorar. Me entusiasma la idea de asumir nuevos desafíos y busco oportunidades que me permitan seguir creciendo profesionalmente, utilizando mi experiencia y creatividad para contribuir significativamente en proyectos innovadores.
   
                       </p>
-                      <span class="font-bold">Collaboro ai seguenti progetti:</span>
+                      <span class="font-bold">He desarrollado los siguientes proyectos:</span>
                       <div class="m-3"></div>
                       <a href="https://armor.ploydev.site" target="_blank" rel="noopener" class="font-normal text-pink-500"
                         >ARMORTEMPLATE.SITE</a
