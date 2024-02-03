@@ -123,11 +123,7 @@
                   <div class="flex flex-wrap justify-center">
                     <div class="w-full lg:w-9/12 px-4">
                       <p class="mb-4  sm:text-sm leading-relaxed text-gray-800">
-                        Sono un programmatore appassionato che da oltre 5 anni si dedica con entusiasmo al mondo dello sviluppo web. Ho un'esperienza consolidata in tecnologie come Vue.js, Feathers e Node.js, oltre a competenze approfondite in JavaScript e altre tecnologie di base.
-  
-  Negli anni, ho avuto il privilegio di collaborare con amici e partner, offrendo il mio supporto e competenze per la realizzazione di diversi progetti. Questa esperienza mi ha permesso di approfondire le mie competenze e di imparare continuamente, affrontando sfide stimolanti e sviluppando soluzioni innovative.
-  
-  La mia passione per la programmazione mi spinge costantemente a crescere e migliorare. Sono entusiasta all'idea di intraprendere nuove sfide e sono alla ricerca di opportunità che mi permettano di continuare a crescere professionalmente, mettendo a frutto la mia esperienza e creatività per contribuire in modo significativo a progetti innovativi.
+                      Soy un programador apasionado que se dedica con entusiasmo al mundo del desarrollo web desde hace más de 5 años. Tengo una sólida experiencia en tecnologías como Vue.js, Feathers y Node.js, así como un profundo conocimiento en JavaScript y otras tecnologías centrales. A lo largo de los años, he tenido el privilegio de colaborar con amigos y socios, ofreciendo mi apoyo y experiencia para la realización de diversos proyectos. Esta experiencia me permitió profundizar mis habilidades y aprender continuamente, enfrentando desafíos estimulantes y desarrollando soluciones innovadoras. Mi pasión por la programación me empuja constantemente a crecer y mejorar. Me entusiasma la idea de asumir nuevos desafíos y busco oportunidades que me permitan seguir creciendo profesionalmente, utilizando mi experiencia y creatividad para contribuir significativamente en proyectos innovadores.
   
                       </p>
                       <span class="font-bold">Collaboro ai seguenti progetti:</span>
