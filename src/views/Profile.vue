@@ -100,7 +100,7 @@
                     <i
                       class="fas fa-map-marker-alt mr-2 text-lg text-gray-500"
                     ></i>
-                    Córdoba, Argentina.
+                    Buenos Aires, Argentina.
                   </div>
                   <div class="mb-2 text-gray-700 mt-5">
                     <i class="fas fa-envelope mr-2 text-lg text-gray-500"></i
