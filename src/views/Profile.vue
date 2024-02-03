@@ -132,7 +132,7 @@
                       </p>
                       <span class="font-bold">Collaboro ai seguenti progetti:</span>
                       <div class="m-3"></div>
-                      <a href="https://armortemplate.site" target="_blank" rel="noopener" class="font-normal text-pink-500"
+                      <a href="https://armor.ploydev.site" target="_blank" rel="noopener" class="font-normal text-pink-500"
                         >ARMORTEMPLATE.SITE</a
                       >
                       <div>
@@ -147,7 +147,7 @@
                       </div>
   
                       <div>
-                        <iframe v-if="toggleArmor" src="https://armortemplate.site" width="100%" height="500"></iframe>
+                        <iframe v-if="toggleArmor" src="https://armor.ploydev.site" width="100%" height="500"></iframe>
                       </div>
                       <hr>
                       <div class="m-3"></div>
