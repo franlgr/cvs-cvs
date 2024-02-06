@@ -25,7 +25,7 @@
   export default {
     methods: {
       descargarPDF() {
-        const rutaArchivo = 'https://drive.google.com/file/d/1QYfyD-2rwOf2CtqF5IlUa8_e-WVANML_/view?usp=sharing';
+        const rutaArchivo = 'https://drive.google.com/file/d/1QYfyD-2rwOf2CtqF5IlUa8_e-WVANML_/view?usp=direct&export=download';
   
         const enlace = document.createElement('a');
         enlace.href = rutaArchivo;
