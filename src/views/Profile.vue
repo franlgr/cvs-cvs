@@ -116,7 +116,7 @@
                   </div>
                   <div class="mb-2 text-gray-700">
                     <i class="fas fa-microchip mr-2 text-lg text-gray-500"></i
-                    >Nuxtjs, Vuejs, Vite // Bootstrap & Tailwind. // Feathers, Axios, Nodejs, Express, MongoDB.
+                    >Javascript-/-Typescript || Nuxtjs; VueJs; Vite; ReactJs; NextJs; // Bootstrap & Tailwind // FeathersJs; Axios; NodeJs; Vuex; Express; MongoDB; Api Rest; Websockets.
                   </div>
                 </div>
                 <div class="mt-10 py-10 border-t border-gray-300 text-center">
